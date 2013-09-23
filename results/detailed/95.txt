@@ -1,0 +1,20 @@
+Number of Scenarios;           32;
+Number of Repetitions;         20;
+Number of Runs;                640;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $ErasureCode=false, $MagicCarsRatio=0, $MagicReqTime=intuniform(0,60), $appType="ApplV_MPB", $EnableShuffle=false, $repetition=15, $0=260, $1=261, $2=262, $3=263, $4=264;
+
+Run Number;                95;
+Scenario Number;           4;
+Repetition Number;         15;
+Convergence Time;          6.848313;
+Number of Errors;          19;
+CRLs in I2V (Dup);         238;
+CRLs in I2V (New);         163;
+CRLs in V2V (Dup);         287;
+CRLs in V2V (New);         37;
+RSUs broadcasts;           17;
+end of section;            0;
+

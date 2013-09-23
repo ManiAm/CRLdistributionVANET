@@ -1,0 +1,300 @@
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       1; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 
+Number of RSUs that each vehicle has encountered: 
+
+vehicle 0;       1; 
+vehicle 1;       1; 
+vehicle 2;       2; 
+vehicle 3;       1; 
+vehicle 4;       2; 
+vehicle 5;       1; 
+vehicle 6;       2; 
+vehicle 7;       1; 
+vehicle 8;       1; 
+vehicle 9;       1; 

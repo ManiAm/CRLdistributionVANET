@@ -1,0 +1,56 @@
+<flows>
+
+  <vType accel="3.0" decel="6.0" id="CarA" length="5.0" minGap="2.5" maxSpeed="25.0" sigma="0.5" />
+  <vType accel="2.0" decel="5.0" id="CarB" length="5.0" minGap="2.5" maxSpeed="22.0" sigma="0.5" />
+  <vType accel="1.0" decel="4.0" id="CarC" length="7.5" minGap="3" maxSpeed="17" sigma="0.5"/>
+  <vType accel="1.0" decel="4.0" id="CarD" length="7.5" minGap="3" maxSpeed="17" sigma="0.5"/>
+
+  <flow id="flow1" from="111657480#0" to="-1881683#0"  type="CarB" begin="0" end="300" number="2"/>
+  <flow id="flow2" from="111657480#0" to="49778495"  type="CarB" begin="20" end="300" number="2"/>
+  <flow id="flow3" from="111657480#0" to="24488823#1"  type="CarC" begin="40" end="300" number="2" />
+  <flow id="flow4" from="111657480#0" to="53182234#1"  type="CarC" begin="60" end="300" number="2" />
+  <flow id="flow5" from="111657480#0" to="38322835"  type="CarB" begin="80" end="300" number="2" />
+  <flow id="flow6" from="111657480#0" to="40507519"  type="CarA" begin="100" end="300" number="2" />
+  <flow id="flow7" from="111657480#0" to="-41475010"  type="CarA" begin="120" end="300" number="2" />
+
+  <flow id="flow8" from="1881683#0" to="-111657480#0"  type="CarB" begin="0" end="300" number="2"/>
+  <flow id="flow9" from="1881683#0" to="49778495"  type="CarB" begin="20" end="300" number="2"/>
+  <flow id="flow10" from="1881683#0" to="24488823#1"  type="CarC" begin="40" end="300" number="2"/>
+  <flow id="flow11" from="1881683#0" to="53182234#1"  type="CarC" begin="60" end="300" number="2"/>
+  <flow id="flow12" from="1881683#0" to="38322835"  type="CarB" begin="80" end="300" number="2"/>
+  <flow id="flow13" from="1881683#0" to="40507519"  type="CarA" begin="100" end="300" number="2"/>
+  <flow id="flow14" from="1881683#0" to="-41475010"  type="CarA" begin="120" end="300" number="2"/>
+
+  <flow id="flow15" from="-53182234#1" to="-111657480#0"  type="CarB" begin="0" end="300" number="2"/>
+  <flow id="flow16" from="-53182234#1" to="-1881683#0"  type="CarB" begin="20" end="300" number="2"/>
+  <flow id="flow17" from="-53182234#1" to="49778495"  type="CarC" begin="40" end="300" number="2"/>
+  <flow id="flow18" from="-53182234#1" to="24488823#1"  type="CarC" begin="60" end="300" number="2"/>
+  <flow id="flow19" from="-53182234#1" to="38322835"  type="CarB" begin="80" end="300" number="2"/>
+  <flow id="flow20" from="-53182234#1" to="40507519"  type="CarA" begin="100" end="300" number="2"/>
+  <flow id="flow21" from="-53182234#1" to="-41475010"  type="CarA" begin="120" end="300" number="2"/>
+
+  <flow id="flow22" from="41475010" to="40507519"  type="CarB" begin="0" end="300" number="2"/>
+  <flow id="flow23" from="41475010" to="38322835"  type="CarB" begin="20" end="300" number="2"/>
+  <flow id="flow24" from="41475010" to="53182234#1"  type="CarC" begin="40" end="300" number="2"/>
+  <flow id="flow25" from="41475010" to="24488823#1"  type="CarC" begin="60" end="300" number="2"/>
+  <flow id="flow26" from="41475010" to="49778495"  type="CarB" begin="80" end="300" number="2"/>
+  <flow id="flow27" from="41475010" to="-1881683#0"  type="CarA" begin="100" end="300" number="2"/>
+  <flow id="flow28" from="41475010" to="-111657480#0"  type="CarA" begin="120" end="300" number="2"/>
+
+  <flow id="flow29" from="-40507519" to="-41475010"  type="CarB" begin="0" end="300" number="2"/>
+  <flow id="flow30" from="-40507519" to="38322835"  type="CarB" begin="20" end="300" number="2"/>
+  <flow id="flow31" from="-40507519" to="53182234#1"  type="CarC" begin="40" end="300" number="2"/>
+  <flow id="flow32" from="-40507519" to="24488823#1"  type="CarC" begin="60" end="300" number="2"/>
+  <flow id="flow33" from="-40507519" to="49778495"  type="CarB" begin="80" end="300" number="2"/>
+  <flow id="flow34" from="-40507519" to="-1881683#0"  type="CarA" begin="100" end="300" number="2"/>
+  <flow id="flow35" from="-40507519" to="-111657480#0"  type="CarA" begin="120" end="300" number="2"/>
+
+  <flow id="flow36" from="-24488823#1" to="-111657480#0"  type="CarB" begin="0" end="300" number="2"/>
+  <flow id="flow37" from="-24488823#1" to="-1881683#0"  type="CarB" begin="20" end="300" number="2"/>
+  <flow id="flow38" from="-24488823#1" to="49778495"  type="CarC" begin="40" end="300" number="2"/>
+  <flow id="flow39" from="-24488823#1" to="53182234#1"  type="CarC" begin="60" end="300" number="2"/>
+  <flow id="flow40" from="-24488823#1" to="38322835"  type="CarB" begin="80" end="300" number="2"/>
+  <flow id="flow41" from="-24488823#1" to="40507519"  type="CarA" begin="100" end="300" number="2"/>
+  <flow id="flow42" from="-24488823#1" to="-41475010"  type="CarA" begin="120" end="300" number="2"/>
+
+</flows>

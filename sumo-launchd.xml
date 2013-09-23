@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+
+<launch>
+    <basedir path="/home/mani/omnetpp-4.2.2/samples/ThesisMani/sumo/" />
+	<copy file="stock_ntl.net.xml" />
+	<copy file="stock.rou.xml" />
+	<copy file="stock.poly.xml" />	
+	<copy file="stock.sumo.cfg" type="config" />
+</launch>
+

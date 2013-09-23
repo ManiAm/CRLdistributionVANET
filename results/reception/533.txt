@@ -1,0 +1,33 @@
+Number of Scenarios;           32;
+Number of Repetitions;         20;
+Number of Runs;                640;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $ErasureCode=true, $MagicCarsRatio=30, $MagicReqTime=intuniform(0,60), $appType="ApplV_C2C_Epidemic", $EnableShuffle=false, $repetition=13, $0=16, $1=17, $2=18, $3=19, $4=20;
+
+Run Number;                    533;
+Scenario Number;               26;
+Repetition Number;             13;
+V[0] : number of pieces;       20;
+V[0] : last piece in;          42.209845;
+V[1] : number of pieces;       30;
+V[1] : last piece in;          26.000000;
+V[2] : number of pieces;       20;
+V[2] : last piece in;          23.497347;
+V[3] : number of pieces;       20;
+V[3] : last piece in;          40.604570;
+V[4] : number of pieces;       30;
+V[4] : last piece in;          28.000000;
+V[5] : number of pieces;       20;
+V[5] : last piece in;          45.390513;
+V[6] : number of pieces;       20;
+V[6] : last piece in;          42.209845;
+V[7] : number of pieces;       20;
+V[7] : last piece in;          28.912493;
+V[8] : number of pieces;       20;
+V[8] : last piece in;          26.343040;
+V[9] : number of pieces;       30;
+V[9] : last piece in;          22.000000;
+end of section;                0;
+

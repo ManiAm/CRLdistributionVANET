@@ -1,0 +1,25 @@
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=1, $0=75335, $1=96433, $2=56673, $3=33434, $4=23567;
+
+Run Number;                1;
+Scenario Number;           0;
+Repetition Number;         1;
+
+V[1] : sends false msg in;       0.000000;
+V[1] : cert life-time from;      0.000000;
+V[1] : cert life-time to;        120.000000;
+end of section;                  0;
+
+V[5] : receives false msg in;        0.001689;
+V[5] : receives last CRL piece in;   4.066851;
+end of section;                      0;
+
+V[8] : receives false msg in;        0.001688;
+V[8] : receives last CRL piece in;   6.309583;
+end of section;                      0;
+

@@ -1,0 +1,100 @@
+Number of Scenarios;           32;
+Number of Repetitions;         20;
+Number of Runs;                640;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $ErasureCode=false, $MagicCarsRatio=0, $MagicReqTime=intuniform(0,60), $appType="ApplV", $EnableShuffle=false, $repetition=1, $0=75335, $1=96433, $2=56673, $3=33434, $4=23567;
+
+Run Number;                1;
+Scenario Number;           0;
+Repetition Number;         1;
+Convergence Time;          403.300923;
+Number of Errors;          0;
+CRLs in I2V (Dup);         259;
+CRLs in I2V (New);         200;
+CRLs in V2V (Dup);         0;
+CRLs in V2V (New);         0;
+RSUs broadcasts;           19;
+end of section;            0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=1, $0=75335, $1=96433, $2=56673, $3=33434, $4=23567;
+
+Run Number;                1;
+Scenario Number;           0;
+Repetition Number;         1;
+Convergence Time;          97.744947;
+Number of Errors;          2;
+CRLs in I2V (Dup);         99;
+CRLs in I2V (New);         78;
+CRLs in V2V (Dup);         85;
+CRLs in V2V (New);         62;
+RSUs broadcasts;           5;
+end of section;            0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=1, $0=75335, $1=96433, $2=56673, $3=33434, $4=23567;
+
+Run Number;                1;
+Scenario Number;           0;
+Repetition Number;         1;
+Convergence Time;          97.744947;
+Number of Errors;          2;
+CRLs in I2V (Dup);         99;
+CRLs in I2V (New);         78;
+CRLs in V2V (Dup);         85;
+CRLs in V2V (New);         62;
+RSUs broadcasts;           5;
+end of section;            0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=1, $0=75335, $1=96433, $2=56673, $3=33434, $4=23567;
+
+Run Number;                1;
+Scenario Number;           0;
+Repetition Number;         1;
+Convergence Time;          6.386898;
+Number of Errors;          20;
+CRLs in I2V (Dup);         141;
+CRLs in I2V (New);         134;
+CRLs in V2V (Dup);         87;
+CRLs in V2V (New);         56;
+RSUs broadcasts;           15;
+end of section;            0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=1, $0=75335, $1=96433, $2=56673, $3=33434, $4=23567;
+
+Run Number;                1;
+Scenario Number;           0;
+Repetition Number;         1;
+Convergence Time;          6.309583;
+Number of Errors;          20;
+CRLs in I2V (Dup);         136;
+CRLs in I2V (New);         141;
+CRLs in V2V (Dup);         67;
+CRLs in V2V (New);         59;
+RSUs broadcasts;           15;
+end of section;            0;
+

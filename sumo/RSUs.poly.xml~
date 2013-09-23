@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!-- generated on 02/21/12 17:49:45 by SUMO polyconvert Version 0.13.1
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.sf.net/xsd/polyconvertConfiguration.xsd">
+
+    <input>
+        <net-file value="stock.net.xml"/>
+        <osm-files value="stock-local.osm"/>
+    </input>
+
+    <output>
+        <output-file value="poly.xml"/>
+    </output>
+
+    <projection>
+        <proj value="+proj=utm +zone=34 +ellps=WGS84 +datum=WGS84 +units=m +no_defs"/>
+    </projection>
+
+    <processing>
+        <offset.x value="-330370"/>
+        <offset.y value="-6.57706e+006"/>
+    </processing>
+
+</configuration>
+-->
+
+<shapes>
+
+    <poly id="100198415" type="unknown" color="0.20,0.50,1.00" fill="0" layer="-1" shape="862.66,1662.36 858.18,1654.63 889.66,1633.69 877.10,1621.04 867.89,1611.76 933.30,1545.08"/>
+
+    <poly id="100198417" type="unknown" color="0.20,0.50,1.00" fill="1" layer="-1" shape="791.39,1710.53 784.93,1699.11 747.09,1652.87 764.39,1636.22 766.39,1638.46 811.34,1687.85 819.18,1690.79 791.39,1710.53"/>
+
+    <poi id="1022877053" type="unknown" color="0.20,0.50,1.00" layer="-1" x="484.64" y="2001.98"/>
+
+</shapes>

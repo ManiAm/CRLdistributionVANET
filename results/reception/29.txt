@@ -1,0 +1,33 @@
+Number of Scenarios;           32;
+Number of Repetitions;         20;
+Number of Runs;                640;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $ErasureCode=false, $MagicCarsRatio=0, $MagicReqTime=intuniform(0,60), $appType="ApplV", $EnableShuffle=true, $repetition=9, $0=5, $1=10, $2=15, $3=20, $4=25;
+
+Run Number;                    29;
+Scenario Number;               1;
+Repetition Number;             9;
+V[0] : number of pieces;       20;
+V[0] : last piece in;          805.980483;
+V[1] : number of pieces;       20;
+V[1] : last piece in;          605.930378;
+V[2] : number of pieces;       20;
+V[2] : last piece in;          108.962644;
+V[3] : number of pieces;       20;
+V[3] : last piece in;          605.950086;
+V[4] : number of pieces;       20;
+V[4] : last piece in;          105.980029;
+V[5] : number of pieces;       20;
+V[5] : last piece in;          109.075358;
+V[6] : number of pieces;       20;
+V[6] : last piece in;          408.952710;
+V[7] : number of pieces;       20;
+V[7] : last piece in;          308.963798;
+V[8] : number of pieces;       20;
+V[8] : last piece in;          309.056090;
+V[9] : number of pieces;       20;
+V[9] : last piece in;          305.970135;
+end of section;                0;
+

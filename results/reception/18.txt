@@ -1,0 +1,132 @@
+Number of Scenarios;           32;
+Number of Repetitions;         20;
+Number of Runs;                640;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $ErasureCode=false, $MagicCarsRatio=0, $MagicReqTime=intuniform(0,60), $appType="ApplV", $EnableShuffle=false, $repetition=18, $0=275, $1=276, $2=277, $3=288, $4=289;
+
+Run Number;                    18;
+Scenario Number;               0;
+Repetition Number;             18;
+V[0] : number of pieces;       20;
+V[0] : last piece in;          105.631077;
+V[1] : number of pieces;       20;
+V[1] : last piece in;          103.727446;
+V[2] : number of pieces;       20;
+V[2] : last piece in;          103.727446;
+V[3] : number of pieces;       20;
+V[3] : last piece in;          107.249205;
+V[4] : number of pieces;       20;
+V[4] : last piece in;          105.631077;
+V[5] : number of pieces;       20;
+V[5] : last piece in;          107.249205;
+V[6] : number of pieces;       20;
+V[6] : last piece in;          105.631077;
+V[7] : number of pieces;       20;
+V[7] : last piece in;          107.249206;
+V[8] : number of pieces;       20;
+V[8] : last piece in;          101.646930;
+V[9] : number of pieces;       20;
+V[9] : last piece in;          101.646930;
+end of section;                0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=18, $0=275, $1=276, $2=277, $3=288, $4=289;
+
+Run Number;                    18;
+Scenario Number;               0;
+Repetition Number;             18;
+V[0] : number of pieces;       20;
+V[0] : last piece in;          46.752258;
+V[1] : number of pieces;       20;
+V[1] : last piece in;          55.456530;
+V[2] : number of pieces;       20;
+V[2] : last piece in;          14.000000;
+V[3] : number of pieces;       20;
+V[3] : last piece in;          55.456530;
+V[4] : number of pieces;       20;
+V[4] : last piece in;          142.836211;
+V[5] : number of pieces;       20;
+V[5] : last piece in;          80.564520;
+V[6] : number of pieces;       20;
+V[6] : last piece in;          31.000000;
+V[7] : number of pieces;       20;
+V[7] : last piece in;          137.522492;
+V[8] : number of pieces;       20;
+V[8] : last piece in;          55.456530;
+V[9] : number of pieces;       20;
+V[9] : last piece in;          46.752258;
+end of section;                0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=18, $0=275, $1=276, $2=277, $3=288, $4=289;
+
+Run Number;                    18;
+Scenario Number;               0;
+Repetition Number;             18;
+V[0] : number of pieces;       20;
+V[0] : last piece in;          2.556866;
+V[1] : number of pieces;       20;
+V[1] : last piece in;          6.659351;
+V[2] : number of pieces;       20;
+V[2] : last piece in;          2.536404;
+V[3] : number of pieces;       20;
+V[3] : last piece in;          2.556866;
+V[4] : number of pieces;       20;
+V[4] : last piece in;          3.563048;
+V[5] : number of pieces;       20;
+V[5] : last piece in;          6.814494;
+V[6] : number of pieces;       20;
+V[6] : last piece in;          3.238814;
+V[7] : number of pieces;       20;
+V[7] : last piece in;          3.374366;
+V[8] : number of pieces;       20;
+V[8] : last piece in;          6.659352;
+V[9] : number of pieces;       20;
+V[9] : last piece in;          2.494078;
+end of section;                0;
+
+Number of Scenarios;           1;
+Number of Repetitions;         20;
+Number of Runs;                20;
+Number of Vehicles;            10;
+Number of RSUs;                4;
+
+Parameters; $repetition=18, $0=275, $1=276, $2=277, $3=288, $4=289;
+
+Run Number;                    18;
+Scenario Number;               0;
+Repetition Number;             18;
+V[0] : number of pieces;       20;
+V[0] : last piece in;          2.558046;
+V[1] : number of pieces;       20;
+V[1] : last piece in;          5.659312;
+V[2] : number of pieces;       20;
+V[2] : last piece in;          2.537524;
+V[3] : number of pieces;       20;
+V[3] : last piece in;          2.558046;
+V[4] : number of pieces;       20;
+V[4] : last piece in;          6.563759;
+V[5] : number of pieces;       20;
+V[5] : last piece in;          3.894107;
+V[6] : number of pieces;       20;
+V[6] : last piece in;          3.238414;
+V[7] : number of pieces;       20;
+V[7] : last piece in;          3.435286;
+V[8] : number of pieces;       20;
+V[8] : last piece in;          5.659312;
+V[9] : number of pieces;       20;
+V[9] : last piece in;          2.494338;
+end of section;                0;
+
