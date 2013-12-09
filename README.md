@@ -7,21 +7,23 @@ This repos contains the detailed packet-level implemetation of different CRL dis
 Under supervision of professor Panos Papadimitratos
 More information here: http://goo.gl/zinfj
 
-Open this project in OMNET++ network simulator.
+Open this project in OMNET++ network simulator. Download OMNET++ from "http://www.omnetpp.org/".
 
 
 Step 1: Download pre-requisites
 -------------------------------
 
-You need the following packages:
+This project uses the following softwares and packages:
 
-1) Veins framework. Download it from "http://veins.car2x.org"
+1) SUMO: SUMO is an open source, microscopic, continuous-space, discrete-time road traffic simulator, developed at German Aerospace Center. We use SUMO to generate mobility traces of vehicles in large scale simulation. You can download the SUMO from "http://sumo-sim.org/wiki/Main_Page".
 
-2) Eigen. download and extract it on the desktop (it's a header only library)
+2) Veins framework: We used Veins to connect SUMO to OMNET++ using TraCI interface. You can download Veins from "http://veins.car2x.org".
 
-3) boost library (libboost1.46-dev and libboost-serialization1.46-dev)
+3) Eigen library: Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. We use this library for solving simple linear equations in Rabins algorithm. Eigen is a header only library. Download and extract it near the main project folder.
 
-4) openSSL library (libssl-dev)
+4) Boost library: Boost is a set of libraries for C++. We use the boost serialization library to serialize CRL messages before handing it over to TCP, and deserialize it in receiver. In Ubuntu, you can install libboost1.46-dev and libboost-serialization1.46-dev packages.
+
+5) OpenSSL library: OpenSSL is an open-source implementation of the SSL and TLS protocols. The core library, written in the C programming language, implements the basic cryptographic functions and provides various utility functions. We use OpenSSL library to sign and verify different messages. In Ubuntu, you can install libssl-dev package.
 
 
 Step 2: you should change the mixim code
@@ -32,7 +34,6 @@ Step 2: you should change the mixim code
 - comment line 26:
 
         // opp_warning("No battery module defined!");
-
 
 2. go to mixim/src/base/connectionManager/BaseConnectionManager.cc
 
@@ -49,7 +50,6 @@ Step 2: you should change the mixim code
         mod2 ->emit(Signal_In_Range, mod1->getFullName());
 
         // ***************************************************
-
 
 3. go to mixim/src/modules/mac/Mac80211.cc
 
@@ -86,7 +86,6 @@ Step 2: you should change the mixim code
         }
         // ***************************************************
     	    
-
 4. go to mixim/src/modules/mobility/BonnMotionMobility.cc
 
 - change line 103 from handleIfOutside(RAISEERROR, stepTarget, dummy, dummy, dum);
@@ -117,7 +116,6 @@ to handleIfOutside(REFLECT, stepTarget, dummy, dummy, dum);
         // ***************************************************     
     
     
-
 Step 3: change mixim to make it compatible with older gcc (running on KTH server)
 ---------------------------------------------------------------------------------
 
@@ -153,7 +151,6 @@ according to this link: https://github.com/omnetpp/mixim/commit/ec194baa813429b1
 3. Change the Eigen library path in the makefile of application folder
                 
 4. Change the sumo path in suo-launchd.xml
-
 
 
 Step 4: issue the following command to run the simulation in command-line

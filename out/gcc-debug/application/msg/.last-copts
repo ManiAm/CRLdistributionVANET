@@ -1,0 +1,1 @@
+-g -Wall -fPIC  -fno-stack-protector -DHAVE_SWAPCONTEXT -DXMLPARSER=libxml -DWITH_PARSIM -DWITH_NETBUILDER  -I/home/mani/Desktop/eigen -I. -I/home/mani/Desktop/omnetpp-4.3.1/include
